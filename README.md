@@ -27,7 +27,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: I'm learning Python, which is a powerful and flexible programming language that's ideal for getting started and progressing in development, but I don't intend to stop there.
 
-- :seedling: I implement projects using the TensorFlow and Keras libraries to better understand the principles of operation of neural networks.
+- :seedling: I implement projects using the Pytorch, TensorFlow and Keras libraries to better understand the principles of operation of neural networks.
 
 - :zap: I regularly read articles and articles on forums such as Stack Overflow and Habr to broaden my horizons.
   
