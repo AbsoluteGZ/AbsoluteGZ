@@ -18,10 +18,6 @@
 <h2>Hello, World!</h2>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTN1eHdoODFxaHhhZnQ0dHdpdDhiYWNmY2xpMG1zYXAzdHFhZW9weCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/if9niVFg4IwAE/giphy.gif" width="550" height="300"/>
-</div>
-
 ### :sunglasses: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
