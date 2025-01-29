@@ -36,6 +36,28 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
+### :suspect: My significant projects :
+
+*1*) Internship CV Engineer at Wildberries
+
+https://github.com/AbsoluteGZ/WBTECH_Learn
+
+#### Stack:
+
+pytorch - lightning - sklearn - optuna
+
+matplotlib - seaborn - cv2 - numpy 
+
+easyocr - transformers
+
+*2*) Model of a neuro-employee with a choice of roles
+
+https://github.com/AbsoluteGZ/Neuro_employee
+
+#### Stack:
+
+langchain - openai - gradio - chromadb
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
