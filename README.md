@@ -18,7 +18,7 @@
 <h2>Hello, World!</h2>
 </div>
 
-### :sunglasses: About Me :
+# :sunglasses: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I'm learning Python, which is a powerful and flexible programming language that's ideal for getting started and progressing in development, but I don't intend to stop there.
@@ -36,12 +36,35 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### :suspect: My significant projects :
+# :suspect: My significant projects :
 
-*1*) Internship CV Engineer at Wildberries
+*1*) Internship CV Engineer at Wildberries - https://github.com/AbsoluteGZ/WBTECH_Learn
 
-https://github.com/AbsoluteGZ/WBTECH_Learn
+*EX2_Quality*
 
+Photos uploaded by WB suppliers have different quality: Some may have a complex background, some photos may have part of the object not in the frame, etc. To work with such data later, for example, when using photo search algorithms, you need to know the type of defects/features present in the image. There are 6 types of features in total:
+
+untidy,
+angle-composition,
+background,
+crop,
+text,
+multiple-objects
+and one class for images without defects
+good-image.
+In this case, the image may contain several types of defects.
+
+Task:
+
+It is necessary to create a model that will determine the list of defects for the image.
+
+*EX3_Fraud*
+
+Users upload images to the reviews section. Unscrupulous users use reviews to advertise their products or services. As a rule, such images contain contact information: phone numbers, a link to a website, a telegram account, etc.
+
+Required:
+
+Develop an algorithm/software system that allows distinguishing acceptable photos from unacceptable ones. The difficulty is due to the fact that acceptable photos can also contain text.
 #### Stack:
 
 pytorch - lightning - sklearn - optuna
@@ -50,6 +73,8 @@ matplotlib - seaborn - cv2 - numpy
 
 easyocr - transformers
 
+---
+
 *2*) Model of a neuro-employee with a choice of roles
 
 https://github.com/AbsoluteGZ/Neuro_employee
@@ -57,6 +82,8 @@ https://github.com/AbsoluteGZ/Neuro_employee
 #### Stack:
 
 langchain - openai - gradio - chromadb
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
