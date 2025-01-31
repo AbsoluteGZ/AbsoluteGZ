@@ -65,6 +65,7 @@ Users upload images to the reviews section. Unscrupulous users use reviews to ad
 Required:
 
 Develop an algorithm/software system that allows distinguishing acceptable photos from unacceptable ones. The difficulty is due to the fact that acceptable photos can also contain text.
+
 #### Stack:
 
 pytorch - lightning - sklearn - optuna
@@ -75,7 +76,21 @@ easyocr - transformers
 
 ---
 
-*2*) Model of a neuro-employee with a choice of roles
+*2*) AI Chat App - https://github.com/AbsoluteGZ/AIChat_OpenRouterAPI
+
+Chat app that uses OpenRouter API to interact with various AI models.
+
+- Chat with AI models, 215+ models
+- Manage chat history
+- Secure authentication
+
+#### Stack:
+
+flet - python-dotenv - pyinstaller - requests - psutil - asyncio
+
+---
+
+*3*) Model of a neuro-employee with a choice of roles
 
 https://github.com/AbsoluteGZ/Neuro_employee
 
