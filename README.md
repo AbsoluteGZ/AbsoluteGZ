@@ -88,6 +88,15 @@ Chat app that uses OpenRouter API to interact with various AI models.
 
 flet - python-dotenv - pyinstaller - requests - psutil - asyncio
 
+
+AIChat multiplatform app - https://github.com/AbsoluteGZ/AIChat_Android
+
+Using OpenRouter/VseGPT provider for access 200+ models
+
+#### Stack:
+
+dart - flutter - Android studio
+
 ---
 
 *3*) Model of a neuro-employee with a choice of roles
