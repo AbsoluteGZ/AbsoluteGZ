@@ -84,6 +84,8 @@ Chat app that uses OpenRouter API to interact with various AI models.
 - Manage chat history
 - Secure authentication
 
+Presentation: [AIChat for Windows.pdf](https://github.com/user-attachments/files/18635008/AIChat.for.Windows.pdf)
+
 #### Stack:
 
 flet - python-dotenv - pyinstaller - requests - psutil - asyncio
@@ -92,6 +94,10 @@ flet - python-dotenv - pyinstaller - requests - psutil - asyncio
 AIChat multiplatform app - https://github.com/AbsoluteGZ/AIChat_Android
 
 Using OpenRouter/VseGPT provider for access 200+ models
+
+Presentation: [AIChat miltiplatform app.pdf](https://github.com/user-attachments/files/18634847/AIChat.miltiplatform.app.pdf)
+
+Video: https://drive.google.com/file/d/1uScDPmAFhkK_P2zkG0j76mLVDS6o0eqX/view?usp=sharing
 
 #### Stack:
 
